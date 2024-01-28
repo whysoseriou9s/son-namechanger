@@ -9,5 +9,6 @@ Depedencies
 
 - Es_extended (https://github.com/DogsGoBark/es_extended)
 - Ox_lib (https://github.com/overextended/ox_lib)
+  Resmon Usage : 0.00 Ms
 
 Thankyou!
